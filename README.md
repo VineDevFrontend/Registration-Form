@@ -11,7 +11,7 @@ This is my first certification project for the freeCodeCamp Responsive Web Desig
 freeCodeCamp - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/VineAlifer/responsive-web-design)
 
 ## 🔗 Live Preview
-[View it live here](посилання_на_github_pages_або_vercel)
+[View it live here]((https://vinedevfrontend.github.io/Registration-Form/))
 
 ## 📁 Tech stack
 - HTML5
