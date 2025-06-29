@@ -8,7 +8,7 @@ This is my first certification project for the freeCodeCamp Responsive Web Desig
 - Clean and accessible design
 
 ## 🎓 Part of
-freeCodeCamp - [Responsive Web Design Certification]([https://www.freecodecamp.org/certification/VineAlifer/responsive-web-design](https://www.freecodecamp.org/certification/VineAifer/responsive-web-design))
+freeCodeCamp - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/VineAlifer/responsive-web-design)
 
 ## 🔗 Live Preview
 [View it live here](посилання_на_github_pages_або_vercel)
